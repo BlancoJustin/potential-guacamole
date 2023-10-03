@@ -1,5 +1,3 @@
-
-
 def is_it_a_fruit(fruit_candidate):
     fruits = ['apple', 'pear', 'bananna', 'grape']
 
